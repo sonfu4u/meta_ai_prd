@@ -1,6 +1,6 @@
 # Meta-AI PRD Definition Document
 
-This document defines the structure and purpose of the **Meta-PRD** and the phased PRDs used to guide AI-driven software development. It serves as the governing system prompt for building applications from transcripts. The Meta-PRD is always provided alongside the current phase PRD to ensure clarity, scope discipline, and continuity across multiple build steps.
+This document defines the structure and purpose of the **Meta-PRD** and the phased PRDs used to guide AI-driven software development. It serves as the governing system prompt for building applications from transcripts. The Meta-PRD is always provided alongside the current phase PRD to ensure clarity, scope discipline, and continuity across multiple build steps. 
 
 ------
 
